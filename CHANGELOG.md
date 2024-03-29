@@ -1,8 +1,11 @@
 # CHANGELOG
 
-## v1.0.4
+
+## v1.0.6
 Add new targets
 
+## v1.0.5
+Add new targets
 
 ## v1.0.4
 Add new targets
