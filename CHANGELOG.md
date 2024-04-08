@@ -1,5 +1,15 @@
 # CHANGELOG
 
+## v1.0.9
+
+Now it should work
+
+## v1.0.8
+
+Now it should work
+
+## v1.0.7
+New
 
 ## v1.0.6
 Add new targets
